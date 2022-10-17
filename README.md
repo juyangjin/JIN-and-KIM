@@ -1,5 +1,4 @@
 # JIN-and-KIM 
- JIN-and-[KIM](https://github.com/rlagycks)
 ## <안드로이드 및 웹 기반 달력 프로젝트>
 
 __<최종 목표>__  
